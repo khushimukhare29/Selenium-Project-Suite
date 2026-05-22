@@ -4,8 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="test1.DemoTest"/>
-      <class name="test1.OrangeHrmTest"/>
       <class name="test1.GoogleTest"/>
+      <class name="test1.OrangeHrmTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
